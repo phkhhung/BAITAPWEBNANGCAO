@@ -1,0 +1,7 @@
+C:\Users\phkhh\source\repos\BaiTapTuan1\Cong2So\bin\Debug\Cong2So.exe.config
+C:\Users\phkhh\source\repos\BaiTapTuan1\Cong2So\bin\Debug\Cong2So.exe
+C:\Users\phkhh\source\repos\BaiTapTuan1\Cong2So\bin\Debug\Cong2So.pdb
+C:\Users\phkhh\source\repos\BaiTapTuan1\Cong2So\obj\Debug\Cong2So.csproj.AssemblyReference.cache
+C:\Users\phkhh\source\repos\BaiTapTuan1\Cong2So\obj\Debug\Cong2So.csproj.CoreCompileInputs.cache
+C:\Users\phkhh\source\repos\BaiTapTuan1\Cong2So\obj\Debug\Cong2So.exe
+C:\Users\phkhh\source\repos\BaiTapTuan1\Cong2So\obj\Debug\Cong2So.pdb

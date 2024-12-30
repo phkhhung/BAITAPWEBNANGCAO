@@ -1,0 +1,14 @@
+C:\Users\phkhh\source\repos\BaiTapTuan1\SONGUYENTO\bin\Debug\net9.0\SONGUYENTO.exe
+C:\Users\phkhh\source\repos\BaiTapTuan1\SONGUYENTO\bin\Debug\net9.0\SONGUYENTO.deps.json
+C:\Users\phkhh\source\repos\BaiTapTuan1\SONGUYENTO\bin\Debug\net9.0\SONGUYENTO.runtimeconfig.json
+C:\Users\phkhh\source\repos\BaiTapTuan1\SONGUYENTO\bin\Debug\net9.0\SONGUYENTO.dll
+C:\Users\phkhh\source\repos\BaiTapTuan1\SONGUYENTO\bin\Debug\net9.0\SONGUYENTO.pdb
+C:\Users\phkhh\source\repos\BaiTapTuan1\SONGUYENTO\obj\Debug\net9.0\SONGUYENTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phkhh\source\repos\BaiTapTuan1\SONGUYENTO\obj\Debug\net9.0\SONGUYENTO.AssemblyInfoInputs.cache
+C:\Users\phkhh\source\repos\BaiTapTuan1\SONGUYENTO\obj\Debug\net9.0\SONGUYENTO.AssemblyInfo.cs
+C:\Users\phkhh\source\repos\BaiTapTuan1\SONGUYENTO\obj\Debug\net9.0\SONGUYENTO.csproj.CoreCompileInputs.cache
+C:\Users\phkhh\source\repos\BaiTapTuan1\SONGUYENTO\obj\Debug\net9.0\SONGUYENTO.dll
+C:\Users\phkhh\source\repos\BaiTapTuan1\SONGUYENTO\obj\Debug\net9.0\refint\SONGUYENTO.dll
+C:\Users\phkhh\source\repos\BaiTapTuan1\SONGUYENTO\obj\Debug\net9.0\SONGUYENTO.pdb
+C:\Users\phkhh\source\repos\BaiTapTuan1\SONGUYENTO\obj\Debug\net9.0\SONGUYENTO.genruntimeconfig.cache
+C:\Users\phkhh\source\repos\BaiTapTuan1\SONGUYENTO\obj\Debug\net9.0\ref\SONGUYENTO.dll

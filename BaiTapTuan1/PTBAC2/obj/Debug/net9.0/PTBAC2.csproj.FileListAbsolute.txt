@@ -1,0 +1,14 @@
+C:\Users\phkhh\source\repos\BaiTapTuan1\PTBAC2\bin\Debug\net9.0\PTBAC2.exe
+C:\Users\phkhh\source\repos\BaiTapTuan1\PTBAC2\bin\Debug\net9.0\PTBAC2.deps.json
+C:\Users\phkhh\source\repos\BaiTapTuan1\PTBAC2\bin\Debug\net9.0\PTBAC2.runtimeconfig.json
+C:\Users\phkhh\source\repos\BaiTapTuan1\PTBAC2\bin\Debug\net9.0\PTBAC2.dll
+C:\Users\phkhh\source\repos\BaiTapTuan1\PTBAC2\bin\Debug\net9.0\PTBAC2.pdb
+C:\Users\phkhh\source\repos\BaiTapTuan1\PTBAC2\obj\Debug\net9.0\PTBAC2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phkhh\source\repos\BaiTapTuan1\PTBAC2\obj\Debug\net9.0\PTBAC2.AssemblyInfoInputs.cache
+C:\Users\phkhh\source\repos\BaiTapTuan1\PTBAC2\obj\Debug\net9.0\PTBAC2.AssemblyInfo.cs
+C:\Users\phkhh\source\repos\BaiTapTuan1\PTBAC2\obj\Debug\net9.0\PTBAC2.csproj.CoreCompileInputs.cache
+C:\Users\phkhh\source\repos\BaiTapTuan1\PTBAC2\obj\Debug\net9.0\PTBAC2.dll
+C:\Users\phkhh\source\repos\BaiTapTuan1\PTBAC2\obj\Debug\net9.0\refint\PTBAC2.dll
+C:\Users\phkhh\source\repos\BaiTapTuan1\PTBAC2\obj\Debug\net9.0\PTBAC2.pdb
+C:\Users\phkhh\source\repos\BaiTapTuan1\PTBAC2\obj\Debug\net9.0\PTBAC2.genruntimeconfig.cache
+C:\Users\phkhh\source\repos\BaiTapTuan1\PTBAC2\obj\Debug\net9.0\ref\PTBAC2.dll

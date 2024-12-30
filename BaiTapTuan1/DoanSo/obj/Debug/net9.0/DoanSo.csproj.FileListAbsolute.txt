@@ -1,0 +1,14 @@
+C:\Users\phkhh\source\repos\BaiTapTuan1\DoanSo\bin\Debug\net9.0\DoanSo.exe
+C:\Users\phkhh\source\repos\BaiTapTuan1\DoanSo\bin\Debug\net9.0\DoanSo.deps.json
+C:\Users\phkhh\source\repos\BaiTapTuan1\DoanSo\bin\Debug\net9.0\DoanSo.runtimeconfig.json
+C:\Users\phkhh\source\repos\BaiTapTuan1\DoanSo\bin\Debug\net9.0\DoanSo.dll
+C:\Users\phkhh\source\repos\BaiTapTuan1\DoanSo\bin\Debug\net9.0\DoanSo.pdb
+C:\Users\phkhh\source\repos\BaiTapTuan1\DoanSo\obj\Debug\net9.0\DoanSo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phkhh\source\repos\BaiTapTuan1\DoanSo\obj\Debug\net9.0\DoanSo.AssemblyInfoInputs.cache
+C:\Users\phkhh\source\repos\BaiTapTuan1\DoanSo\obj\Debug\net9.0\DoanSo.AssemblyInfo.cs
+C:\Users\phkhh\source\repos\BaiTapTuan1\DoanSo\obj\Debug\net9.0\DoanSo.csproj.CoreCompileInputs.cache
+C:\Users\phkhh\source\repos\BaiTapTuan1\DoanSo\obj\Debug\net9.0\DoanSo.dll
+C:\Users\phkhh\source\repos\BaiTapTuan1\DoanSo\obj\Debug\net9.0\refint\DoanSo.dll
+C:\Users\phkhh\source\repos\BaiTapTuan1\DoanSo\obj\Debug\net9.0\DoanSo.pdb
+C:\Users\phkhh\source\repos\BaiTapTuan1\DoanSo\obj\Debug\net9.0\DoanSo.genruntimeconfig.cache
+C:\Users\phkhh\source\repos\BaiTapTuan1\DoanSo\obj\Debug\net9.0\ref\DoanSo.dll
